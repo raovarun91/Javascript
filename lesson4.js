@@ -34,4 +34,18 @@ console.log("a !== c ", a !== c)
 
 console.log("a !== d ", a !== d)    //In this case the types are different and thus it treats 5 and "5" differently
 
+// 5. Other operators (>, >=, <, <=)
+console.log("a > b ", a > b)
+console.log("a >= c ", a >= c)
+console.log("a < b ", a < b)
+console.log("a <= c ", a <= c)
 
+// 5. Other operators (>, >=, <, <=)
+console.log("a > b (true) && b < a (true)", a > b && b < a)
+console.log("a > b (true) && a < b (false)", a > b && a < b)
+console.log("a < b (false) && b > a (false)", a < b && b > a)
+console.log("a > b (true) || b < a (true)", a > b || b < a)
+console.log("a > b (true) || a < b (false)", a > b || a < b)
+console.log("a < b (false) || b > a (false)", a < b || b > a)
+console.log("! (a < b) (false)", !(a < b))
+console.log("! (a > b) (true)", !(a > b))
