@@ -37,3 +37,10 @@ Lesson 6 - Loops
 3. do while
 4. for - of
 5. for - in
+
+Lesson 7 - String Operations
+1. String length
+2. Access value using index
+3. Template Literals
+4. Escape Characters (\n, \t)
+5. String methods (toUpperCase, toLowerCase, trim, slice, concat, replace, charAt)
