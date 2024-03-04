@@ -30,3 +30,10 @@ Lesson 5 - Conditional Statements
 3. it-else if-else condition
 4. Ternary operators (condition ? true output : false output)
 5. Switch operator
+
+Lesson 6 - Loops
+1. for
+2. while
+3. do while
+4. for - of
+5. for - in
