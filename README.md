@@ -16,8 +16,17 @@ Lesson 3 - Arithmetics Operations
 2. Modulus (%) exponential (**)
 3. Increment decrement (post and pre)
 
-Lesson 4 - Comparison Operators
+Lesson 4 - Operators
 1. Equal to (==)
 2. Not Equal to (!=)
 3. Equal to and type(==)
 4. Not Equal to and type (!=)
+5. Other comparison operators (>, >=, <, <=)
+6. Logical operators (&& - AND, || - OR, ! - NOT)
+
+Lesson 5 - Conditional Statements
+1. if condition
+2. if-else condition
+3. it-else if-else condition
+4. Ternary operators (condition ? true output : false output)
+5. Switch operator
