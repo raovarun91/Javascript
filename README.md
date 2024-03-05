@@ -44,3 +44,9 @@ Lesson 7 - String Operations
 3. Template Literals
 4. Escape Characters (\n, \t)
 5. String methods (toUpperCase, toLowerCase, trim, slice, concat, replace, charAt)
+
+Lesson 8 - Arrays
+1. Array values, index, edit value
+2. loop over Array
+3. Add or Remove from Array (Push(), Pop(), unshift(), shift(), concat())
+4. Slice (to access subset of array) and Splice (to add,remove or modify array)
