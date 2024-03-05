@@ -50,3 +50,9 @@ Lesson 8 - Arrays
 2. loop over Array
 3. Add or Remove from Array (Push(), Pop(), unshift(), shift(), concat())
 4. Slice (to access subset of array) and Splice (to add,remove or modify array)
+
+Lesson 9 - Functions
+1. Simgple funciton
+2. Passing params to function
+3. Returing value from function
+4. Arrow function
