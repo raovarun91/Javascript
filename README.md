@@ -56,3 +56,7 @@ Lesson 9 - Functions
 2. Passing params to function
 3. Returing value from function
 4. Arrow function
+5. forEach function
+6. map function
+7. filter function
+8. reduce function
