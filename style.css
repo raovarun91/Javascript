@@ -1,0 +1,20 @@
+h1 {
+    color: blue;
+    background-color: azure;
+}
+
+/* To access a element using ID use #id_tag */
+#header_id {
+    color:bisque;
+    background-color: azure;
+}
+
+/* To access a element using class use .class_tag */
+.medium_id{
+    color:black;
+    background-color: azure;
+}
+
+body {
+    background-color: brown;
+}

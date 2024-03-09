@@ -60,3 +60,10 @@ Lesson 9 - Functions
 6. map function
 7. filter function
 8. reduce function
+
+Lesson 10 - DOM
+1. Dom Structure
+2. How to access HTML elements using JS (Basic Structure)
+3. Accessing elements with JS (using id, class, tag, queryselector)
+4. Accessing attributes/properties of elements (tagName, innerText, innerHTML, textContent)
+4. DOM manipulation ()
