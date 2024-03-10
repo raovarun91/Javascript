@@ -65,5 +65,6 @@ Lesson 10 - DOM
 1. Dom Structure
 2. How to access HTML elements using JS (Basic Structure)
 3. Accessing elements with JS (using id, class, tag, queryselector)
-4. Accessing attributes/properties of elements (tagName, innerText, innerHTML, textContent)
-4. DOM manipulation ()
+4. Accessing properties of elements (tagName, innerText, innerHTML, textContent)
+5. Accessing attributes of Elements and changing them (getAttribute, setAttributes)
+6. DOM manipulation (Creating element, adding element, removing element - createElement, append, prepend, before, after, remove)

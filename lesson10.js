@@ -48,4 +48,33 @@ console.log(value7)
 console.log("value tagname ", value7.tagName)
 console.log("value tagname ", value7.innerText)
 console.log("value tagname ", value7.innerHTML)
-console.log("value tagname ", value7.textContent)
+console.log("value tagname ", value7.textContent)       // shows hidden text elements as well 
+
+//access child element
+console.log(document.querySelector("div").children)
+console.log(document.querySelector("div").innerText)
+//document.querySelector("div").innerText = "Guess"
+//console.log('document.querySelector("div").innerText = "Guess" run....')
+//console.log("now new value of this complete div is ", document.querySelector("div").innerText)
+
+//Get and Set attribute for
+console.log("for H1 heading element value.getAttrubite('id') returns this value ", value.getAttribute("id"))
+console.log("change the value of id for above element to new_header_id value.setAttrubite('id', 'new_header_id')", value.setAttribute("id", "new_header_id"))
+
+// Access style and set style
+console.log(value.style)
+
+// Creating new elements using JS
+let newbutton = document.createElement("button")    //This will just create element but not add to DOM
+newbutton.innerText = "Click This"
+
+//Adding newly created element using JS
+let valuediv = document.querySelector("div")
+console.log(valuediv)
+valuediv.append(newbutton)      //This will add button element to end within select div tag
+//valuediv.prepend(newbutton)      //This will add button element to start within select div tag
+//valuediv.before(newbutton)      //This will add button element before the start of select div tag
+//valuediv.after(newbutton)      //This will add button element after the end of select div tag
+
+//Removing element from DOM using JS
+valuediv.remove()       //removing the total above div element
