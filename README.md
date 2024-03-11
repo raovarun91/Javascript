@@ -68,3 +68,8 @@ Lesson 10 - DOM
 4. Accessing properties of elements (tagName, innerText, innerHTML, textContent)
 5. Accessing attributes of Elements and changing them (getAttribute, setAttributes)
 6. DOM manipulation (Creating element, adding element, removing element - createElement, append, prepend, before, after, remove)
+
+Lesson 11 - Events
+1. Inline event within HTML
+2. Writing Events within JS (JS have higher precedence over incline HTML)
+3. Event Listeners (could handle multipe events for single action)
