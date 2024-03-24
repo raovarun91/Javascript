@@ -73,3 +73,6 @@ Lesson 11 - Events
 1. Inline event within HTML
 2. Writing Events within JS (JS have higher precedence over incline HTML)
 3. Event Listeners (could handle multipe events for single action)
+
+Lesson 12 - Objects and Classes
+1. Object
